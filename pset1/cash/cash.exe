@@ -1489,7 +1489,8 @@ __extension__ long long __attribute__((__cdecl__)) llrintl (long double);
 # 3 "C:\\cs50\\pset1\\cash\\cash.c" 2
 
 
-# 4 "C:\\cs50\\pset1\\cash\\cash.c"
+
+# 5 "C:\\cs50\\pset1\\cash\\cash.c"
 int main()
 {
     int cents_owed;
