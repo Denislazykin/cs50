@@ -1043,9 +1043,9 @@ int main(void)
 {
 
         printf("Give me on integer: ");
-        int x = get_int("");
+        int x = GetInt("");
         printf("Give me another integer: ");
-        int y = get_int("");
+        int y = GetInt("");
 
 
         printf("The sum of %i and %i is %i!\n", x, y, x + y);
