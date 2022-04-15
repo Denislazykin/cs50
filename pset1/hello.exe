@@ -30571,7 +30571,7 @@ namespace std
 
 
 # 4 "C:\\cs50\\pset1\\hello.cpp"
-int main(void)
+int hello(void)
 {
 
         printf("Give me on integer: ");
