@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdio.h>
 
-int hello(void)
+int main(void)
 {
         // ask user for input
         printf("Give me on integer: ");
