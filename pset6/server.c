@@ -626,7 +626,7 @@ const char* lookup(const char* path)
  */
 bool parse(const char* line, char* abs_path, char* query)
 {
-    // TODO
+    // TO
     error(501);
     return false;
 }
